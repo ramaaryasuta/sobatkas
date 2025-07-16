@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1015134554934",
+    "project_id": "sobatkas",
+    "storage_bucket": "sobatkas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015134554934:android:8259f320036a8dfeb0c197",
+        "android_client_info": {
+          "package_name": "com.compilesuccess.sobatkas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXFzjGv2BfS4qXBQiHCxkfReHhGzxOyww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
