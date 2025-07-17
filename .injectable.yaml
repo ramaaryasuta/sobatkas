@@ -1,0 +1,4 @@
+generate_for:
+  include:
+    - lib/**.dart
+    - lib/**/**.dart
