@@ -6,7 +6,7 @@ import 'package:sobatkas/core/extensions/context_extensions.dart';
 import 'package:sobatkas/core/routing/app_route.gr.dart';
 import 'package:sobatkas/core/styles/colors.dart';
 import 'package:sobatkas/gen/assets.gen.dart';
-import 'package:sobatkas/shared/widgets/asset_image.dart';
+import 'package:sobatkas/shared/widgets/image/asset_image.dart';
 import 'package:sobatkas/shared/widgets/button/button_elevated.dart';
 import 'package:sobatkas/shared/widgets/button/button_outline.dart';
 import 'package:sobatkas/shared/widgets/text_field.dart';

@@ -32,7 +32,8 @@ class AuthCubit extends Cubit<AuthState> {
     }
   }
 
-  void checkCurrentUser(User? user) {
+  void checkCurrentUser() {
+    final user = FirebaseAuth.instance.currentUser;
     if (user != null) {
       emit(AuthSuccess(user));
     } else {

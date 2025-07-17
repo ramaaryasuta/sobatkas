@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:sobatkas/core/styles/colors.dart';
 
-import '../asset_image.dart';
+import '../image/asset_image.dart';
 
 class MFilledElevatedButton extends StatelessWidget {
   const MFilledElevatedButton({
